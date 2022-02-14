@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.heading {
+  margin-left: 10px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.coin-card {
+  width: 160px;
+  margin: 0 20px;
+}
